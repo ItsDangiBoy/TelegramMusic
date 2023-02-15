@@ -169,3 +169,4 @@ For any kind of help join [our support group](https://t.me/AsmSupport) or raise 
 
 Music Player is licenced under the GNU Affero General Public License v3.0.
 Read more [here](./LICENSE).
+[Heroku](https://heroku.com/deploy)
